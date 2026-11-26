@@ -1,0 +1,17 @@
+{
+	"geode": "6.0.0",
+	"gd": {
+		"win": "2.2091",
+		"android": "2.2091",
+		"mac": "2.2091",
+		"ios": "2.2091"
+	},
+	"id": "better-ui",
+	"name": "Better UI!",
+	"version": "1.0.0",
+	"developer": "Anautolover",
+	"description": "This mod brings better UI to your game! Hope you have fun!",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
